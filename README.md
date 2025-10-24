@@ -18,16 +18,24 @@ A modern, responsive, and animated portfolio site crafted with **Flutter Web**. 
 ## 🗂 Section Structure
 
 Modern Navigation Bar (with scroll-to-section and popup menu for mobile)
-Hero Section (animated background, profile image, intro text, location/contact)
-Profile Section (career summary paragraph)
-Skills Section (Testing & QA, Development & Tools, Programming Languages, Soft Skills)
-Experience Section (QA Engineer, Flutter Developer/Tester, Content Creator experience)
-Projects Section (Portfolio Website, Facebook Page Website, E-Commerce Mobile App, Learning Apps)
-Education & Certifications (University coursework, self-learning, active certifications)
-Languages (Burmese, English proficiency)
-Contact Section (buttons for Email, GitHub, Facebook)
-Footer (Copyright, message)
 
+Hero Section (animated background, profile image, intro text, location/contact)
+
+Profile Section (career summary paragraph)
+
+Skills Section (Testing & QA, Development & Tools, Programming Languages, Soft Skills)
+
+Experience Section (QA Engineer, Flutter Developer/Tester, Content Creator experience)
+
+Projects Section (Portfolio Website, Facebook Page Website, E-Commerce Mobile App, Learning Apps)
+
+Education & Certifications (University coursework, self-learning, active certifications)
+
+Languages (Burmese, English proficiency)
+
+Contact Section (buttons for Email, GitHub, Facebook)
+
+Footer (Copyright, message)
 ---
 
 ## 👨‍💻 Skills & Tools
@@ -112,5 +120,6 @@ MIT
 ## 🙏 Credits & Note
 
 Every section—from animation to information cards—was built to reflect real software testing principles: clarity, structure, and care for user experience.
+
 
 
